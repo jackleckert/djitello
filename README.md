@@ -5,7 +5,7 @@ A repository that enables to text or tell commands to a DJI Tello drone. The com
 ## Installation
 Clone the repo locally and install all dependencies in a new environment:
 ```
-git clone https://github.com/jackleckert/djitello
+git clone --recurse-submodules https://github.com/jackleckert/djitello
 cd djitello/DJITelloPy
 pip install -e .
 ```
