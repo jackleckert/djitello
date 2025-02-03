@@ -15,4 +15,5 @@ In the ```.env``` file, paste your OpenAI API key that you can retrieve from [he
 
 ## Runing
 Run ```python drone_prompt_controller.py```.
+
 From there you'll be able to choose whether to text or speak with the drone, and execute any command.
