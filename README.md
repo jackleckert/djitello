@@ -3,7 +3,7 @@
 A repository that enables to text or tell commands to a DJI Tello drone. The commands include ```taking off```,```landing```, ```moving in any direction```,```rotating clockwise or anticlockwise```, or doing a ```flip```.
 
 ## Installation
-Clone the repo locally and install all dependencies in a new environment:
+Clone the repo locally and install all dependencies in an environment with ```python>=3.10```:
 ```
 git clone --recurse-submodules https://github.com/jackleckert/djitello
 cd djitello/DJITelloPy
