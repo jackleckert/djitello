@@ -11,7 +11,7 @@ pip install -e .
 ```
 You will require to ```brew install portaudio``` and ```pip install openai pyaudio SpeechRecognition```.
 
-In the ```.env``` file, paste your OpenAI API key that you can retrieve from [here](https://platform.openai.com/settings/organization/api-keys).
+In the ```.env``` file, paste your OpenAI API key that can be retrieved from [here](https://platform.openai.com/settings/organization/api-keys).
 
 ## Runing
 Run ```python drone_prompt_controller.py```.
