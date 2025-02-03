@@ -13,6 +13,4 @@ COMMAND_MAPPING = {
     "flip_right": lambda drone, param: drone.flip_right(),
     "flip_forward": lambda drone, param: drone.flip_forward(),
     "flip_back": lambda drone, param: drone.flip_back(),
-    # In case you want to support complex moves such as RC control:
-    "send_rc_control": lambda drone, params: drone.send_rc_control(*params),
 }
